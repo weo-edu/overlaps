@@ -1,0 +1,31 @@
+{
+  "name": "overlaps",
+  "version": "1.0.0",
+  "description": "Simple utility that checks whether or not two arrays overlap.  It is equivalent to intersection(arr1, arr2).length > 0, but is more performant.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/weo-edu/overlaps"
+  },
+  "keywords": [
+    "overlaps",
+    "array",
+    "utility"
+  ],
+  "author": "ashaffer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/weo-edu/overlaps/issues"
+  },
+  "homepage": "https://github.com/weo-edu/overlaps",
+  "devDependencies": {
+    "chai": "^2.1.0",
+    "mocha": "^2.1.0"
+  }
+}
